@@ -74,4 +74,6 @@ export const GlobalStyle = createGlobalStyle `
         position: relative;
         border-radius: 0.25rem;
     }
+
+
 `
