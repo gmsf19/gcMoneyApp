@@ -92,7 +92,7 @@ export const RadioBox = styled.button<RadioBoxProps> `
         }
 `;
 
-export const IconButton = styled.div `
+export const IconButton = styled.button `
     button  {
         width: 100%;
         padding: 0 1.5rem;
